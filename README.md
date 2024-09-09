@@ -39,7 +39,6 @@ python tools-phishing.py
 
 *YouTube: https://www.youtube.com/channel/UCqEtxJKbIghx6lyymrjfvnA?view_as=subscriber*
 
-####
 <p align="center">  
 <a href="https://R4GN4R0K-SEC.github.io/" title="website homepage">
    <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/ab1796b2-72d3-4678-b2b6-83be792b3512"/>
