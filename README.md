@@ -46,5 +46,4 @@ python tools-phishing.py
 <a href="https://github.com/R4GN4R0K-SEC/tools-phishing/" title="files github repo">
    <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/3cbe8b24-0309-45e8-932d-852c0917b865"/>
 <a href="https://github.com/R4GN4R0K-SEC/tools-phishing/archive/refs/heads/master.zip" title="Download zip">
-   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/03400010-8696-4019-83d7-926b217f8203"/>    
-</>  
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/03400010-8696-4019-83d7-926b217f8203"/>   
