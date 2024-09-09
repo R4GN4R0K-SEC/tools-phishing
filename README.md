@@ -5,8 +5,9 @@
    <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/3cbe8b24-0309-45e8-932d-852c0917b865"/>
 <a href="https://github.com/R4GN4R0K-SEC/tools-phishing/archive/refs/heads/master.zip" title="Download zip">
    <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/03400010-8696-4019-83d7-926b217f8203"/>    
-</p>
-
+</>  
+   
+*****************************
 # Tools-phishing
 ![alt img](screenshot1.png)
 Tools-phishing is an all-in-one Python script that contains the most popular phishing tools available today. The main purpose of this tool is to automate the download process and to offer tools to users who may not know about its existence. It will be constantly updated as more tools will be added as the administrator discovers them or as recommended by the users themselves.
